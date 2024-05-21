@@ -1,0 +1,22 @@
+retangle
+
+ 11,12,b1,b2=map(int, input().split())
+
+ if(11==12 and b1==b2):
+
+
+
+print("YES")
+
+ elif(11==b1 and 12==b2):
+
+
+
+print("YES")
+
+else:
+
+
+
+print("NO")
+
